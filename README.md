@@ -1,5 +1,5 @@
 # Bike_Velocimeter
-Arduino project with the intent to track the velocity of your bike
+Arduino project with the intent to track the velocity of your bike. Attach the sensor in a fixed position where it can detect a magnet attached to the wheel.
 
 ***REMEMBER TO CHANGE YOUR WHEEL RADIUS!***
 
